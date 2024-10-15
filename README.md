@@ -1,1 +1,2 @@
-# Data-Analysis-Project-3
+# Project 3 -Cricket Insights
+This project involved analyzing player performance data from ESPNcricinfo to determine the best 11 combinations for the T20 World Cup 2022. Using Pandas for data cleaning and transformation, and Power BI for creating dashboards, the project provided clear insights into key player statistics such as batting averages and bowling performances to aid decision-makers in team selection.
